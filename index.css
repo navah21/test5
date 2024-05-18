@@ -1,0 +1,21 @@
+.main{
+    justify-content: center;
+    
+}
+.con{
+    margin-left: 70px;
+    
+}
+h2{
+    background-color: black;
+    color: white;
+    text-align: center;
+   
+}
+button{
+    background-color: rgb(37, 95, 114);
+    color: white;
+}
+input{
+    width: 700px;
+}
